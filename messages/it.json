@@ -1,0 +1,22 @@
+{
+  "HomePage": {
+    "title": "Benvenuto in Diet Planner",
+    "subtitle": "Gestisci le tue diete in modo semplice ed efficace"
+  },
+  "Sidebar": {
+    "title": "Diet Planner",
+    "masterData": "Anagrafiche",
+    "diets": "Diete"
+  },
+  "Anagrafiche": {
+    "title": "Gestione Anagrafiche"
+  },
+  "Diete": {
+    "title": "Gestione Diete"
+  },
+  "NotFound": {
+    "pageNotFound": "Pagina non trovata",
+    "message": "La pagina che stai cercando non esiste.",
+    "backHome": "Torna alla Home"
+  }
+}
